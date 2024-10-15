@@ -9,4 +9,3 @@ int mult(int num){
   }
   return total;
 }
-// Hi 
